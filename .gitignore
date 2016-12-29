@@ -110,3 +110,4 @@ pip-selfcheck.json
 *.iml
 out
 gen
+*.sqlite3
